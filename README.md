@@ -18,3 +18,8 @@ Some ground rules
 - No memory leaks
   - all events can be unbound
   
+
+Youtube links
+---------------
+
+Modular Javascript by LearnCode.academy - https://www.youtube.com/watch?v=HkFlM73G-hk&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
