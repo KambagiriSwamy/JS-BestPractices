@@ -21,5 +21,5 @@ Some ground rules
 
 Youtube links
 ---------------
-
+Javascript - Understanding the weird parts - https://www.youtube.com/watch?v=Bv_5Zv5c-Ts
 Modular Javascript by LearnCode.academy - https://www.youtube.com/watch?v=HkFlM73G-hk&list=PLoYCgNOIyGABs-wDaaxChu82q_xQgUb4f
